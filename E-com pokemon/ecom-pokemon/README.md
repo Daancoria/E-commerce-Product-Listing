@@ -1,4 +1,3 @@
-# Baseball Products
 
 This is a simple React application that displays a list of pokemon plushies, based on my Recreate your favorite webpage task. The app allows users to filter products based on their category and view details such as the product's name, price, description, and image.
 
