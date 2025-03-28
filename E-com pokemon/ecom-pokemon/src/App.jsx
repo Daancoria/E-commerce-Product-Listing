@@ -52,8 +52,8 @@ const App = () => {
           onChange={handleCategoryChange}
         >
           <option value="All">All</option>
-          <option value="Water">Sports</option>
-          <option value="Normal">Equipment</option>
+          <option value="Water">Water</option>
+          <option value="Normal">Normal</option>
         </select>
       </div>
       <ProductList products={filteredProducts} />
